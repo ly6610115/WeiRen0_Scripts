@@ -13,7 +13,7 @@ TG频道群：暂无
 **************************************
 
 
-^http[s]?:\/\/.+user/ios_store_pay_edition.+(check_members_identity_v2|get_member_info) url script-response-body https://raw.githubusercontent.com/WeiRen0/Scripts/main/wufan.js
+^http[s]?:\/\/.+user/ios_store_pay_edition.+(check_members_identity_v2|get_member_info) url script-response-body https://raw.githubusercontent.com/ly6610115/WeiRen0_Scripts/main/wufan.js
 
 hostname = iosv2.cjapi.papa21.com,*wufan*
 ***************************************/
